@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lwk98
-- 👀 I’m interested in  MOEA / NSGA2  / MOPSO 
-- 🌱 I’m currently learning Matlab and EA FeatureSelection
+- 👀 I’m interested in  LLM
+- 🌱 I’m currently learning Python FastAPI/vue3/LLM/Agent
 - 📫 How to reach me  1002119437@qq.com
 
 <!---
